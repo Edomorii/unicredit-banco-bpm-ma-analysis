@@ -54,6 +54,31 @@ The main objectives of the analysis were:
 
 ---
 
+## Financial Metrics Explained
+
+### Return on Assets (ROA)
+ROA measures how efficiently a bank generates net income from its total asset base. A higher ROA indicates stronger profitability and more efficient asset utilization.
+
+### Return on Equity (ROE)
+ROE evaluates the bank’s ability to generate returns for shareholders relative to total equity. Higher ROE values generally reflect stronger profitability and more efficient capital allocation.
+
+### Profit Margin
+Profit margin measures the percentage of revenue converted into net income after expenses. Higher margins indicate stronger operational efficiency and cost control.
+
+### Asset Utilization
+Asset utilization measures the ability of the institution to generate revenue from total assets. Higher values indicate more efficient deployment of the balance sheet.
+
+### Liquidity Coverage Ratio (LCR)
+The LCR evaluates the bank’s ability to withstand short-term liquidity stress by comparing high-quality liquid assets to projected short-term cash outflows.
+
+### Net Stable Funding Ratio (NSFR)
+The NSFR measures the long-term stability of the bank’s funding structure by comparing available stable funding to required stable funding over a one-year horizon.
+
+### Leverage-Adjusted Duration Gap
+The leverage-adjusted duration gap measures the sensitivity of the bank’s equity value to interest rate changes, incorporating both asset-liability duration mismatch and financial leverage.
+
+---
+
 ## Files Included
 
 ### Presentation
